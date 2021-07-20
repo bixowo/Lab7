@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Tarea2</string>
+
+    <string name="instruccionestablero">
+        \n
+       El recorrido del caballo es un problema matemático, consiste en recorrer un tablero de m × n celdas usando un caballo del ajedrez, visitando cada celda sólo una vez.\n
+
+        Si el recorrido del caballo termina en la misma celda donde comenzó, se habla de un recorrido cerrado ó ciclo Hamiltoniano.\n
+        En caso contrario, se habla de un recorrido abierto. \n
+        La aplicación permitirá escoger distintos tamaños de tableros, para seleccionarlo es necesario apretar el tamaño del tablero deseado, su elección se le informará con un pequeño mensaje y será marcado con un tic verde.  El tablero generado será el que escogió, comenzará con todas las casillas disponibles para hacer un movimiento, al realizar un movimiento la casilla presionada quedará en estado utilizado y no podrá escogerla de nuevo. Para ganar es necesario lograr un recorrido Hamilton en el tablero seleccionado.
+
+    </string>
+
+    <string name="Desarrollador1">
+        \n
+        Edad: 24 años.\n
+        Clase: Ingeniero en Telecomunicaciones.\n
+        Lvl: 5 año.\n
+        Ciudad natal: Chillan.\n
+        Alimento favorito: Pollo Agridulce con Arroz Blanco.\n
+        Descripcion: Alto con un poco de sobre peso, gusta de aprender cosas nuevas y jugar ya sea video juegos o deportes.\n
+        Habilidades especiales: Guitarra Lvl Intermedio.\n
+
+    </string>
+
+    <string name="Desarrollador2">
+        \n
+        Edad: 24 años.\n
+        Clase: Ingeniero en Telecomunicaciones.\n
+        Lvl: 5 año.\n
+        Ciudad natal: Osorno.\n
+        Alimento favorito: Papas Fritas con Arroz.\n
+        Descripcion: Salta harto O-O\n
+        Habilidades especiales: Voleibol Lvl Experto.\n
+
+    </string>
+
+    <string-array name="misTableros">
+        <item>Tablero 3x4</item>
+        <item>Tablero 3x7</item>
+        <item>Tablero 3x8</item>
+        <item>Tablero 3x9</item>
+        <item>Tablero 3x10</item>
+        <item>Tablero 4x5</item>
+        <item>Tablero 4x6</item>
+        <item>Tablero 4x7</item>
+        <item>Tablero 4x8</item>
+        <item>Tablero 4x9</item>
+        <item>Tablero 5x5</item>
+        <item>Tablero 5x6</item>
+        <item>Tablero 5x7</item>
+        <item>Tablero 5x8</item>
+        <item>Tablero 5x9</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
